@@ -1,1 +1,1 @@
-pip install git+https://github.com/orgicus/calysto_processing.git@hotfix/PJS-only-test
+-e git+https://github.com/orgicus/calysto_processing.git@hotfix/PJS-only-test

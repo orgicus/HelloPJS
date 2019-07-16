@@ -1,1 +1,1 @@
-python3 -m calysto_processing install --user
+python -m calysto_processing install --user
